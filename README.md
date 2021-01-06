@@ -1,12 +1,8 @@
 ## Welcome to Jacinth Gudetti's GitHub Pages
 
-Hacker, coder, and car enthusiast
+The dream is to become an EV/Hybrid engineer at a major car maker working on the next generation of high performance sports cars and/or racecars. In my research I believe the true long term fuel alternative is hydrogen, here is why I believe hydrogen fuel cell cars are the future:
 
-### Careers
-
-The dream is to become an EV/Hybrid engineer at a major car maker working on the next generation of high performance sports cars and/or racecars. 
-
-Here is why I believe hydrogen fuel cell cars are the future:
+### Environmental Impact
 ```markdown
 Syntax highlighted code block
 
