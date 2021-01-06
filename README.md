@@ -1,10 +1,10 @@
 ## Welcome to Jacinth Gudetti's GitHub Pages
 
-Hacker, coder, and systems engineer
+Hacker, and car enthusiast
 
-### Markdown
+### Careers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
