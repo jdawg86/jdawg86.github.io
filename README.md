@@ -4,7 +4,10 @@ The dream is to become an EV/Hybrid engineer at a major car maker working on the
 
 ### Environmental Impact
 ```markdown
-Syntax highlighted code block
+Battery Electriv Vehicles have a number of issues when it comes to environmental impact:
+
+1. Numbered
+2. List
 
 # Header 1
 ## Header 2
@@ -13,8 +16,6 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
