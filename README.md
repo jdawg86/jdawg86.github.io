@@ -6,7 +6,7 @@ Hacker, coder, and car enthusiast
 
 The dream is to become an EV/Hybrid engineer at a major car maker working on the next generation of high performance sports cars and/or racecars. 
 
-
+Here is why I believe hydrogen fuel cell cars are the future:
 ```markdown
 Syntax highlighted code block
 
