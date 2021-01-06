@@ -1,9 +1,10 @@
 ## Welcome to Jacinth Gudetti's GitHub Pages
 
-Hacker, and car enthusiast
+Hacker, coder, and car enthusiast
 
 ### Careers
 
+The dream is to become an EV/Hybrid engineer at a major car maker working on the next generation of high performance sports cars and/or racecars. 
 
 
 ```markdown
