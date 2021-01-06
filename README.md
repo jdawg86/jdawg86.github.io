@@ -14,12 +14,14 @@ Although FCVs do require platinum to line the inside of the fuel cell, there is 
 
 This [article](https://www.climatecolab.org/contests/2016/transportation/c/proposal/1331641) explains the benefits of FCVs very well.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](mazdarx8re_1_560px.jpg)
+The other advantage of hydrogen is that gas powered vehicles can run on hydrogen as well with modification to the fuel system! Mazda in fact modified a RX8 to run on _both_ hydrogen **AND** gasoline. Here is a picture:
+![Image](mazdarx8re_1_560px.jpg)
 
 ```markdown
 ```
+
+**Bold** and _Italic_ and `Code` text
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
