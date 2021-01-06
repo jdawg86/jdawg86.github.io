@@ -1,20 +1,16 @@
 ## Welcome to Jacinth Gudetti's GitHub Pages
 
-The dream is to become an EV/Hybrid engineer at a major car maker working on the next generation of high performance sports cars and/or racecars. In my research I believe the true long term fuel alternative is hydrogen, here is why I believe hydrogen fuel cell cars are the future:
+The dream is to become an EV/Hybrid engineer at a major car maker working on the next generation of high performance sports cars and/or racecars. In my research I believe the true long term fuel alternative is hydrogen, here is why I believe hydrogen fuel cell cars (FCVs) are the future:
 
 ### Environmental Impact
 ```markdown
-Battery Electriv Vehicles have a number of issues when it comes to environmental impact:
+Battery Electric Vehicles (BEVs) have a number of issues when it comes to environmental impact:
 
-1. Numbered
-2. List
+1. Intensive mining is required to harvest battery materials
+2. Batteries themselves are heavy to transport
+3. Battery disposal is difficult
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+Although FCVs do require platinum to line the inside of the fuel cell, there is successful development to _remove_ platinum from the equation.
 
 
 **Bold** and _Italic_ and `Code` text
