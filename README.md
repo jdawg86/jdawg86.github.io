@@ -3,7 +3,7 @@
 The dream is to become an EV/Hybrid engineer at a major car maker working on the next generation of high performance sports cars and/or racecars. In my research I believe the true long term fuel alternative is hydrogen, here is why I believe hydrogen fuel cell cars (FCVs) are the future:
 
 ### Environmental Impact
-```markdown
+
 Battery Electric Vehicles (BEVs) have a number of issues when it comes to environmental impact:
 
 1. Intensive mining is required to harvest battery materials
@@ -17,6 +17,8 @@ This [article](https://www.climatecolab.org/contests/2016/transportation/c/propo
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+```markdown
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
