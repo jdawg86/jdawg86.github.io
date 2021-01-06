@@ -12,6 +12,7 @@ Battery Electric Vehicles (BEVs) have a number of issues when it comes to enviro
 
 Although FCVs do require platinum to line the inside of the fuel cell, there is successful development to _remove_ platinum from the equation.
 
+This [article](https://www.climatecolab.org/contests/2016/transportation/c/proposal/1331641) explains the benefits of FCVs very well.
 
 **Bold** and _Italic_ and `Code` text
 
