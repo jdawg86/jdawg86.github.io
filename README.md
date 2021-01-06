@@ -16,7 +16,7 @@ This [article](https://www.climatecolab.org/contests/2016/transportation/c/propo
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](mazdarx8re_1_560px.jpg)
 
 ```markdown
 ```
