@@ -27,7 +27,36 @@ Now it is worth mentioning that Elon Musk has been quoted with tweeting:
 
 I do believe he is wrong because although fuel cells are less efficient they are more versatile and can power both ICE cars and EVs as discussed earlier. The fact is that widescale EV production will be very difficult to sell everyone on however by offering gasoline owners an alternative to keep their gas cars running and produce little to no emissions is a very real step forward in the long term.
 
+
+# Why Python is great fro machine learning versus C++
+
+Python is a very easy to use programming language that is very flexible and high level that is still fast enough for most ML and AI applications.
+
+In fact, [57%](https://towardsdatascience.com/what-is-the-best-programming-language-for-machine-learning-a745c156d6b7) of data scientists and machine learning developers use Python for their applications.
+
+Although some argue that Python tends to be a slow language, in my experience, it is plenty fast enough for self driving applications and machine learning training. The real limitation appears to be computing power on the hardware side. During my autonomous vehicles project, a training model that would take my Nvidia GTX 960m equipped laptop around 2 hours to compute a supercomputer with Nvidia P100 nodes would take around 4-5 minutes.
+![Image](20200320_161542.jpg)
+
+Although C++ is a much faster language, Pythong has a number of advantages:
+1. Python is simpler to read
+ - It is easier for non coders to understand the logic flow of your code
+2. Python is lightweight
+ - Easier to develop on for the coder
+3. Python has more development done for machine learning
+ - Historically, more ML developers have coded with Python so from an engineering perspective, even if C++ is faster, the amount of support and optimization done with Python outweigh C++'s benefits most of the time
+
 ```markdown
+def F(n):  if n == 0:
+   return 0  if n == 1:
+   return 1  else:
+   return F(n-1) + F(n-2)
+```
+
+```markdwown
+int F(int n) {  if(n == 0) {    return 0;
+ }  if(n == 1) {    return 1;
+ }  else {    return F(n-1) + F(n-2);
+ }}
 ```
 
 **Bold** and _Italic_ and `Code` text
