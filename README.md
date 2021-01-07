@@ -41,7 +41,9 @@ In fact, [57%](https://towardsdatascience.com/what-is-the-best-programming-langu
 
 Although some argue that Python tends to be a slow language, in my experience, it is plenty fast enough for self driving applications and machine learning training. The real limitation appears to be computing power on the hardware side. During my autonomous vehicles project, a training model that would take my Nvidia GTX 960m equipped laptop around 2 hours to compute a supercomputer with Nvidia P100 nodes would take around 4-5 minutes.
 
-Here I am with an autonomous vehicle based on a Traxxas Ford Fiesta ST 1/10 rc rally car
+Here I am with an autonomous vehicle based on a [Traxxas Ford Fiesta ST 1/10 rc rally car](https://traxxas.com/products/models/electric/ford-fiesta-st-rally)
+And I can confirm, it does handle very well in dirt and grass as designed! Sorry Professor Oliveira and Silberman! :grin:
+
 ![Image](20200320_161542.jpg)
 
 Although C++ is a much faster language, Pythong has a number of advantages:
