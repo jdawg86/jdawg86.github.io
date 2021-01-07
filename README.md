@@ -40,7 +40,8 @@ Although some argue that Python tends to be a slow language, in my experience, i
 Although C++ is a much faster language, Pythong has a number of advantages:
 1. Python is simpler to read
  - It is easier for non coders to understand the logic flow of your code.
- - Look at the code below for the Fibonacci sequence. For a non coder, Python is easier to explain
+
+Look at the code below for the Fibonacci sequence. For a non coder, Python is easier to explain
 
 Python:
 ```markdown
@@ -64,6 +65,7 @@ int F(int n) {
 }
 ```
 [Click here](docs/CONTRIBUTING.md) for the file for the Python code above
+
 Credit to [freeCodeCamp](https://www.freecodecamp.org/news/the-fibonacci-sequence-in-5-different-programming-languages-1c6514c749e5/) for the original code
 
 2. Python is lightweight
@@ -77,14 +79,5 @@ Not to mention, optimisng extensions like [Cython](https://cython.org/) can conv
 
  - Historically, more ML developers have coded with Python so from an engineering perspective, even if C++ is faster, the amount of support and optimization done with Python outweigh C++'s benefits most of the time
 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdawg86/jdawg86.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As Timo Rohner, a senior ML engineer says:
+> most models published in papers are publicly available in the form of implementations in Python.
