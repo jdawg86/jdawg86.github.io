@@ -39,27 +39,45 @@ Although some argue that Python tends to be a slow language, in my experience, i
 
 Although C++ is a much faster language, Pythong has a number of advantages:
 1. Python is simpler to read
- - It is easier for non coders to understand the logic flow of your code
-2. Python is lightweight
- - Easier to develop on for the coder
-3. Python has more development done for machine learning
- - Historically, more ML developers have coded with Python so from an engineering perspective, even if C++ is faster, the amount of support and optimization done with Python outweigh C++'s benefits most of the time
+ - It is easier for non coders to understand the logic flow of your code.
+ - Look at the code below for the Fibonacci sequence. For a non coder, Python is easier to explain
 
+Python:
 ```markdown
 def F(n):  if n == 0:
    return 0  if n == 1:
    return 1  else:
    return F(n-1) + F(n-2)
 ```
-
+C++:
 ```markdwown
-int F(int n) {  if(n == 0) {    return 0;
- }  if(n == 1) {    return 1;
- }  else {    return F(n-1) + F(n-2);
- }}
+int F(int n) {
+ if(n == 0) {
+  return 0;
+ }
+ if(n == 1) {
+  return 1;
+ }
+ else {
+  return F(n-1) + F(n-2);
+ }
+}
 ```
+[Click here](docs/CONTRIBUTING.md) for the file for the Python code above
+Credit to [freeCodeCamp](https://www.freecodecamp.org/news/the-fibonacci-sequence-in-5-different-programming-languages-1c6514c749e5/) for the original code
 
-**Bold** and _Italic_ and `Code` text
+2. Python is lightweight
+ - Easier to develop on for the coder
+
+While both languages have their issues, C++ is a lower end programming language and thus different compilers have different optimizations and thus C++ may not behave the same way on one machine as it does on another if that is not taken into account.
+
+Not to mention, optimisng extensions like [Cython](https://cython.org/) can convert Python to a statically type language and thus make Python compile and run at the same time as C++. So there is no real need for C++ in most cases.
+ 
+3. Python has more development done for machine learning
+
+ - Historically, more ML developers have coded with Python so from an engineering perspective, even if C++ is faster, the amount of support and optimization done with Python outweigh C++'s benefits most of the time
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
