@@ -1,5 +1,5 @@
 # Welcome to Jacinth Gudetti's Test Pages
-### I'm just going to talk about random stuff
+###### I'm just going to talk about random stuff
 
 The dream is to become an EV/Hybrid engineer at a major car maker working on the next generation of high performance sports cars and/or racecars. In my research I believe the true long term fuel alternative is hydrogen, here is why I believe hydrogen fuel cell cars (FCVs) are the future:
 
@@ -17,9 +17,13 @@ This [article](https://www.climatecolab.org/contests/2016/transportation/c/propo
 
 
 The other advantage of hydrogen is that gas powered vehicles can run on hydrogen as well with modification to the fuel system! Mazda in fact modified a RX8 to run 
-on _both_ hydrogen **AND** gasoline. Here is a picture:
+on _both_ hydrogen ***AND*** gasoline. Here is a picture:
 
 ![Image](mazdarx8re_1_560px.jpg)
+
+Now it is worth mentioning that Elon Musk has been quoted with tweeting:
+
+>Fuel cells = fool sells
 
 ```markdown
 ```
