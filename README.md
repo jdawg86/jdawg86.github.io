@@ -40,6 +40,8 @@ Python is a very easy to use programming language that is very flexible and high
 In fact, [57%](https://towardsdatascience.com/what-is-the-best-programming-language-for-machine-learning-a745c156d6b7) of data scientists and machine learning developers use Python for their applications.
 
 Although some argue that Python tends to be a slow language, in my experience, it is plenty fast enough for self driving applications and machine learning training. The real limitation appears to be computing power on the hardware side. During my autonomous vehicles project, a training model that would take my Nvidia GTX 960m equipped laptop around 2 hours to compute a supercomputer with Nvidia P100 nodes would take around 4-5 minutes.
+
+Here I am with an autonomous vehicle based on a Traxxas Ford Fiesta ST 1/10 rc rally car
 ![Image](20200320_161542.jpg)
 
 Although C++ is a much faster language, Pythong has a number of advantages:
