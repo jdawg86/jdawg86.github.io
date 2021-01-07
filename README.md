@@ -1,7 +1,8 @@
 # Welcome to Jacinth Gudetti's Test Pages
 ###### I'm just going to talk about random stuff
 
-The dream is to become an EV/Hybrid engineer at a major car maker working on the next generation of high performance sports cars and/or racecars. In my research I believe the true long term fuel alternative is hydrogen, here is why I believe hydrogen fuel cell cars `FCVs` are the future:
+##Why Hydrogen Fuel Cell Vehicles Are A Viable Alternative to Battery Electric Vehicles
+My dream is to become an EV/Hybrid engineer at a major car maker working on the next generation of high performance sports cars and/or racecars. In my research I believe the true long term fuel alternative is hydrogen, here is why I believe hydrogen fuel cell cars `FCVs` are the future:
 
 ### Environmental Impact
 
@@ -28,7 +29,7 @@ Now it is worth mentioning that Elon Musk has been quoted with tweeting:
 I do believe he is wrong because although fuel cells are less efficient they are more versatile and can power both ICE cars and EVs as discussed earlier. The fact is that widescale EV production will be very difficult to sell everyone on however by offering gasoline owners an alternative to keep their gas cars running and produce little to no emissions is a very real step forward in the long term.
 
 
-# Why Python is great fro machine learning versus C++
+## Why Python Is Better For Machine Learning Versus C++
 
 Python is a very easy to use programming language that is very flexible and high level that is still fast enough for most ML and AI applications.
 
