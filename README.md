@@ -28,6 +28,10 @@ Now it is worth mentioning that Elon Musk has been quoted with tweeting:
 
 I do believe he is wrong because although fuel cells are less efficient they are more versatile and can power both ICE cars and EVs as discussed earlier. The fact is that widescale EV production will be very difficult to sell everyone on however by offering gasoline owners an alternative to keep their gas cars running and produce little to no emissions is a very real step forward in the long term.
 
+So essentially:
+- [x] Can be used for both ICE and EV vehicles
+- [x] Is a virtually unlimited resource
+- [ ] Is not as efficient as battery electric vehicles
 
 ## Why Python Is Better For Machine Learning Versus C++
 
